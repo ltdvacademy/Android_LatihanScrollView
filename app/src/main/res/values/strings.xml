@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Latihan ScrollView</string>
+
+    <string name="intro">Hi, Nama saya adalah Poncoe, saya sangat suka dengan pemograman android, alasan saya mebalajar android karena saya menyukai teknologi baru yang banyak digunakan oleh banyak orang.</string>
+
+    <string name="ig">Official Instagram</string>
+    <string name="github">Official Github</string>
+    <string name="feedback">Berikan Rating &amp; Feedback</string>
+    <string name="tellfriends">Beritahu Teman</string>
+    <string name="privacypolicy">Kebijakan Privasi</string>
+
+    <string name="contact">\nContact Person?\n</string>
+    <string name="ltdv">LUCKYTRUE DEVELOPMENT</string>
+    <string name="call">HUBUNGI</string>
+
+    <string name="rights">LuckyTrue, All Rights Reserved ©2019</string>
+</resources>
